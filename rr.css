@@ -1,0 +1,11 @@
+.flex
+{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
